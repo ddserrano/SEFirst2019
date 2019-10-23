@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyProgram
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyProgram\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyProgram\n
+comment2.params=x\ y
+comment2.target=void\ rec(int,\ int)
+numComments=3
