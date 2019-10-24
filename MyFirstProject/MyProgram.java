@@ -16,6 +16,7 @@ public class MyProgram
     public static void main(String[] args)
     {
         rec(3, 5);
+        System.out.println(add(3,5));
     }  
     
     public static void rec(int x, int y)
@@ -25,6 +26,10 @@ public class MyProgram
         {
             rec(x+y, y);
         }
+    }
+    public static int add(int a,int b)
+    {
+        return a+b;
     }
 
 }
